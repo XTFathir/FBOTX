@@ -93,7 +93,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = ' '
-global.namebot = ''FBOTX'
+global.namebot = 'FBOTX'
 global.wm = ' '
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'FBOT'
